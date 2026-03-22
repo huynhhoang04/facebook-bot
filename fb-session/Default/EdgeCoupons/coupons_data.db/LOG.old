@@ -1,6 +1,0 @@
-2026/03/21-18:38:06.426 12d4 Reusing MANIFEST C:\Users\huynh\OneDrive\Documents\code\pupeteer\fb-session\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
-2026/03/21-18:38:06.427 12d4 Recovering log #19
-2026/03/21-18:38:06.427 12d4 Reusing old log C:\Users\huynh\OneDrive\Documents\code\pupeteer\fb-session\Default\EdgeCoupons/coupons_data.db/000019.log 
-2026/03/21-18:38:06.446 5470 Level-0 table #24: started
-2026/03/21-18:38:06.449 5470 Level-0 table #24: 681712 bytes OK
-2026/03/21-18:38:06.451 5470 Delete type=0 #19
